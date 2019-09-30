@@ -1,0 +1,3 @@
+29-09-2019
+    - Falta ajustar as regras do firewall para nao pegar pacotes da rede local, e assim limpar o log final
+    - Na execução dos containers, tive problema no uptade das imagens, aparentemente o container n esta funcionando internet
